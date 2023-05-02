@@ -1,0 +1,26 @@
+.AboutUs-container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #DEB887;
+  z-index: 1;
+  text-align: center;
+  color: burlywood;
+}
+
+.contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: burlywood;
+  }
+
+  /* HomeHero Tab */
+
+  .HomeHero-container {
+    
+  }
+
+.hero-image{
+  width: fit-content;
+}
